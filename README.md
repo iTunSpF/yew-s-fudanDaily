@@ -1,3 +1,5 @@
+> 本脚本原样搬运自 yew(Guosen Wang) 的 repo，未作任何修改。但由于原 repo 'Removed according to regulations'（允悲），fork 库也直接消失无法使用。虽然目前 github 上已有一些同类的平安复旦自动打卡脚本，但本人最用得惯这个，故在此补档。如果侵权可联系本人删除。
+
 # 平安复旦自动打卡
 
 使用GitHub Actions实现全自动打卡。
